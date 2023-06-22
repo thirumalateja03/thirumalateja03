@@ -1,6 +1,9 @@
-# 💫 About Me: Making things done
-
-![image](https://github.com/thirumalateja15/thirumalateja15/assets/117297126/22418716-9a5e-4db2-901e-2ca97823c410)
+# 💫 Making things done
+<html>
+  <body>
+    <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt"Coding" align="right"><br><br>
+  </body>
+</html>
 
 - 🔭 I’m currently working on **ErnSkill**
 
