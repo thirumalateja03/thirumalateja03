@@ -1,6 +1,14 @@
-# 💫 About Me:
-Making things done
+# 💫 About Me: Making things done
 
+![image](https://github.com/thirumalateja15/thirumalateja15/assets/117297126/22418716-9a5e-4db2-901e-2ca97823c410)
+
+- 🔭 I’m currently working on **ErnSkill**
+
+- 🌱 I’m currently learning **React, ML**
+
+- 📫 How to reach me **thiruamlateja03@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1giLGoKkTLtDtNPFXsxDDRg1GrPCYHwnD/view?usp=sharing](https://drive.google.com/file/d/1giLGoKkTLtDtNPFXsxDDRg1GrPCYHwnD/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thirumala_teja15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teja-25a934252) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thirumalateja03) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thirumalateja15) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21889833) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thirumalateja6) 
