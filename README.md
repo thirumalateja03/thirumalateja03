@@ -33,3 +33,4 @@
 [![](https://visitcount.itsvg.in/api?id=thirumalateja15&icon=9&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![thirumalateja15's GitHub | Languages Over Time](https://stats.quine.sh/thirumalateja15/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=thirumalateja15)
