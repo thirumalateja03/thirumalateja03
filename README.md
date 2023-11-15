@@ -5,9 +5,9 @@
   </body>
 </html>
 
-- 🔭 I’m currently working on **ErnSkill**
+- 🔭 I’m currently working on **COPAC**
 
-- 🌱 I’m currently learning **React, ML**
+- 🌱 I’m currently learning **MEAN Stack, ML**
 
 - 📫 How to reach me **thiruamlateja03@gmail.com**
 
