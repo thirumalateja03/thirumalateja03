@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack, ML**
 
-- 📫 How to reach me **thiruamlateja03@gmail.com**
+- 📫 How to reach me **thirumalateja03@gmail.com**
 
 
 ## 🌐 Socials:
@@ -20,7 +20,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thirumalateja03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thirumalateja03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalateja03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalateja03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumalateja03&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thirumalateja03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
