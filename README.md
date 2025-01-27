@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **COPAC**
 
-- 🌱 I’m currently learning **MEAN Stack, ML**
+- 🌱 BUilding AI powered solutions for future
 
 - 📫 How to reach me **thirumalateja03@gmail.com**
 
